@@ -1,0 +1,17 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Run Array.cpp",
+            "type": "cppdbg",
+            "request": "launch",
+            "program": "/Users/oscarlow/Library/CloudStorage/OneDrive-AsiaPacificUniversity/APU/Y2S2/DSTR/Assignment Part 1/Coding/Array",
+            "args": [],
+            "cwd": "/Users/oscarlow/Library/CloudStorage/OneDrive-AsiaPacificUniversity/APU/Y2S2/DSTR/Assignment Part 1/Coding/",
+            "stopAtEntry": false,
+            "environment": [],
+            "externalConsole": false,
+            "MIMode": "lldb"
+        }
+    ]
+}

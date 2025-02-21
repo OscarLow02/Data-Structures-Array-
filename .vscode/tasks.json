@@ -1,0 +1,20 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "Build C++ (clang++)",
+            "type": "shell",
+            "command": "clang++",
+            "args": [
+                "-std=c++11",
+                "/Users/oscarlow/Library/CloudStorage/OneDrive-AsiaPacificUniversity/APU/Y2S2/DSTR/Assignment Part 1/Coding/Array.cpp",
+                "-o",
+                "/Users/oscarlow/Library/CloudStorage/OneDrive-AsiaPacificUniversity/APU/Y2S2/DSTR/Assignment Part 1/Coding/Array"
+            ],
+            "group": {
+                "kind": "build",
+                "isDefault": true
+            }
+        }
+    ]
+}
